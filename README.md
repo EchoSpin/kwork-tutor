@@ -56,7 +56,7 @@ npm run dev
 2. Go to https://vercel.com
 3. Connect your GitHub repository
 4. Vercel automatically deploys your app
-5. Get a live URL like https://korean-tutor.vercel.app
+5. Get a live URL like 
 
 ## License
 
